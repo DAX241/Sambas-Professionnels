@@ -1,0 +1,27 @@
+2022-06-04T08:17:01+00:00 CRITICAL Uncaught Error: Call to undefined function PUREHEARTSPLUGIN\Element\charitable_get_current_campaign() in C:\wamp64\www\LesSambasV3\wp-content\plugins\purehearts-plugin\elementor\our_causes_v1.php:258
+Stack trace:
+#0 C:\wamp64\www\LesSambasV3\wp-content\plugins\elementor\includes\base\controls-stack.php(2221): PUREHEARTSPLUGIN\Element\Our_Causes_V1->render()
+#1 C:\wamp64\www\LesSambasV3\wp-content\plugins\elementor\includes\base\widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#2 C:\wamp64\www\LesSambasV3\wp-content\plugins\elementor\includes\base\widget-base.php(750): Elementor\Widget_Base->render_content()
+#3 C:\wamp64\www\LesSambasV3\wp-content\plugins\elementor\includes\base\element-base.php(447): Elementor\Widget_Base->print_content()
+#4 C:\wamp64\www\LesSambasV3\wp-content\plugins\elementor\includes\base\element-base.php(767): Elementor\Element_Base->print_element()
+#5 C:\wamp64\www\LesSambasV3\wp-content\plugins\elementor\includes\base\element-base.php(447): Elementor\Element_Base->print dans C:\wamp64\www\LesSambasV3\wp-content\plugins\purehearts-plugin\elementor\our_causes_v1.php à la ligne 258
+
+2022-06-04T08:17:29+00:00 CRITICAL Uncaught Error: Call to undefined function PUREHEARTSPLUGIN\Element\charitable_get_current_campaign() in C:\wamp64\www\LesSambasV3\wp-content\plugins\purehearts-plugin\elementor\our_causes_v1.php:258
+Stack trace:
+#0 C:\wamp64\www\LesSambasV3\wp-content\plugins\elementor\includes\base\controls-stack.php(2221): PUREHEARTSPLUGIN\Element\Our_Causes_V1->render()
+#1 C:\wamp64\www\LesSambasV3\wp-content\plugins\elementor\includes\base\widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#2 C:\wamp64\www\LesSambasV3\wp-content\plugins\elementor\includes\base\widget-base.php(750): Elementor\Widget_Base->render_content()
+#3 C:\wamp64\www\LesSambasV3\wp-content\plugins\elementor\includes\base\element-base.php(447): Elementor\Widget_Base->print_content()
+#4 C:\wamp64\www\LesSambasV3\wp-content\plugins\elementor\includes\base\element-base.php(767): Elementor\Element_Base->print_element()
+#5 C:\wamp64\www\LesSambasV3\wp-content\plugins\elementor\includes\base\element-base.php(447): Elementor\Element_Base->print dans C:\wamp64\www\LesSambasV3\wp-content\plugins\purehearts-plugin\elementor\our_causes_v1.php à la ligne 258
+
+2022-06-04T08:19:53+00:00 CRITICAL Uncaught Error: Call to undefined function PUREHEARTSPLUGIN\Element\charitable_get_current_campaign() in C:\wamp64\www\LesSambasV3\wp-content\plugins\purehearts-plugin\elementor\our_causes_v1.php:258
+Stack trace:
+#0 C:\wamp64\www\LesSambasV3\wp-content\plugins\elementor\includes\base\controls-stack.php(2221): PUREHEARTSPLUGIN\Element\Our_Causes_V1->render()
+#1 C:\wamp64\www\LesSambasV3\wp-content\plugins\elementor\includes\base\widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#2 C:\wamp64\www\LesSambasV3\wp-content\plugins\elementor\includes\base\widget-base.php(750): Elementor\Widget_Base->render_content()
+#3 C:\wamp64\www\LesSambasV3\wp-content\plugins\elementor\includes\base\element-base.php(447): Elementor\Widget_Base->print_content()
+#4 C:\wamp64\www\LesSambasV3\wp-content\plugins\elementor\includes\base\element-base.php(767): Elementor\Element_Base->print_element()
+#5 C:\wamp64\www\LesSambasV3\wp-content\plugins\elementor\includes\base\element-base.php(447): Elementor\Element_Base->print dans C:\wamp64\www\LesSambasV3\wp-content\plugins\purehearts-plugin\elementor\our_causes_v1.php à la ligne 258
+
